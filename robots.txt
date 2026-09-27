@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.qiaojiefs.com/sitemap.xml
